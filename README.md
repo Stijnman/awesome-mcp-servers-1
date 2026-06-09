@@ -530,3 +530,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+- [io.github.agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Wayland-first Linux desktop control MCP: AT-SPI accessibility trees, compositor-aware window targeting, bounded screenshots, and semantic clicks/typing. Works with Hermes Agent and Hermes Mobile.
